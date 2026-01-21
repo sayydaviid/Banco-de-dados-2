@@ -38,6 +38,7 @@ Selecionar **1** SGBD principal para aprofundar (recomendado), com no máximo um
 
 **SGBD Selecionado:**
 - PostgreSQL, versão 18.1, OS: Zorin/Windows
+- Link do repositório: https://github.com/postgres/postgres
 
 > Critérios: disponibilidade de código-fonte, documentação técnica, facilidade de navegar nos módulos de transações, e comunidade ativa.
 
