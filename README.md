@@ -36,11 +36,8 @@ Investigar como um SGBD relacional real implementa suporte a **transações** e 
 ### 2.1 Escolha do SGBD (definir hoje)
 Selecionar **1** SGBD principal para aprofundar (recomendado), com no máximo um segundo apenas para comparação pontual.
 
-**Exemplos comuns:**
-- PostgreSQL
-- MySQL (foco no InnoDB)
-- MariaDB
-- SQLite
+**SGBD Selecionado:**
+- PostgreSQL, versão 18.1, OS: Zorin/Windows
 
 > Critérios: disponibilidade de código-fonte, documentação técnica, facilidade de navegar nos módulos de transações, e comunidade ativa.
 
@@ -55,7 +52,7 @@ Selecionar **1** SGBD principal para aprofundar (recomendado), com no máximo um
 **Fora de escopo (evitar expansão desnecessária):**
 - Replicação e alta disponibilidade (citar apenas se necessário)
 - Otimizador de consultas
-- Engines alternativas (no MySQL, não misturar engines; foco no InnoDB)
+- Engines alternativas 
 
 ---
 
